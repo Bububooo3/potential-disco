@@ -3,7 +3,12 @@ local button = toolbar:CreateButton("Push", "Push Selected Scripts to GitHub", "
 
 local isOpen = false -- UI starts visible
 
+-- HEY HEY HEY THIS WSNT HERE BEFORE!
+--[[
+NOW WE ARE TESTING.....
 
+UPDATING WITH SHA!
+]]
 
 
 --local widgetInfo = DockWidgetPluginGuiInfo.new(
