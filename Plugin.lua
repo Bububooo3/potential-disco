@@ -8,6 +8,8 @@ local isOpen = false -- UI starts visible
 NOW WE ARE TESTING.....
 
 UPDATING WITH SHA!
+
+ANOTHER UPDATE: PULLING IS NOW COMPLETELY FUNCTIONAL
 ]]
 
 
